@@ -19,7 +19,7 @@ For code in verilog, please refer to CLZ.v.
 
 ![ref_clz](./CLZ_picture.png) 
 <h2 id="ref">Reference</h2>
-[1]. Superscalr processor design (a chinese book) <br/>
+[1]. Superscalar processor design (a chinese book) <br/>
 http://www.books.com.tw/products/CN11105742
 
 
