@@ -14,7 +14,8 @@ Instruction list for encoding and reference implementation
 <h3 id="encoding_clz">Encoding Scheme</h3>
 TBD
 <h3 id="encoding_clz">Reference implementation</h3>  
-For code, please refer to CLZ.v.  
+The reference implementation comes from [1]. <br/>
+For code in verilog, please refer to CLZ.v.  
 
 ![ref_clz](./CLZ_picture.png) 
 <h2 id="ref">Reference</h2>
