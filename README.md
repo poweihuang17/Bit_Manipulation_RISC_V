@@ -13,4 +13,4 @@ Instruction list for encoding and reference implementation
 <h3 id="encoding_clz">Encoding Scheme</h3>
 TBD
 <h3 id="encoding_clz">Reference implementation</h3>
-![ref_clz](./CLZ_picture.jpeg) 
+![ref_clz](./CLZ_picture.png) 
