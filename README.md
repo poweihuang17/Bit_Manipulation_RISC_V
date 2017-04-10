@@ -17,7 +17,7 @@ Instruction list for encoding and reference implementation
 <h3 id="status_clz">Status_CLZ</h3>
     * Verilog coding: Done, but just for 32 bit now, 64 bit version not finished.<br/>  
     * Verification: Not yet.   <br/>
-    * Evaluation: Done,, as long as there is not a bug inside verilog code. Please see the analysis section. </br>
+    * Evaluation: Done, as long as there is not a bug inside verilog code. Please see the analysis section. </br>
 <h3 id="encoding_clz">Encoding Scheme</h3>
 TBD
 <h3 id="ref_clz">Reference implementation</h3>  
