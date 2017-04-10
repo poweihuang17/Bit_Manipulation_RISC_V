@@ -15,10 +15,8 @@ Instruction list for encoding and reference implementation
 *   [Reference](#ref)
 <h2 id="clz">CLZ</h2>
 <h3 id="status_clz">Status_CLZ</h3>
-    * Verilog coding: Done, but just for 32 bit now. I will try to change it into configurable code for both 64bit and 32 bit.  
-    
-    * Verification: Not yet.  
-    
+    * Verilog coding: Done, but just for 32 bit now, 64 bit version not finished.<br/>  
+    * Verification: Not yet.   <br/>
     * Evaluation: Done,, as long as there is not a bug inside verilog code. Please see the analysis section. </br>
 <h3 id="encoding_clz">Encoding Scheme</h3>
 TBD
@@ -37,7 +35,7 @@ For further evaluation, we should use EDA tool to see the critical path for 32 b
     * Verification not yet.  <br/>
     * 64 bit version . <br/>
     * Synthesize to make sure it's log(N). <br/>
-    * Area effect? <br/>
+    * Considering area effect. <br/>
 
 <h2 id="ref">Reference</h2>
 [1]. Superscalar processor design (a chinese book) <br/>
